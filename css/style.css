@@ -1,0 +1,159 @@
+body {
+  background-color: #194350;
+  color: ghostwhite;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+  font-size: x-large;
+}
+
+h1 {
+  font-size: 562.5%;
+  font-family: "Original Surfer", cursive;
+  margin: 50px auto 0 auto;
+  font-weight: lighter;
+}
+
+h2,
+h3 {
+  color: darkorange;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+a {
+  color: #194350;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  padding: 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: orange;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-top-color: grey;
+  border-top-width: 5px;
+  height: 2px;
+  text-align: center;
+  width: 5%;
+}
+
+form {
+  text-align: center;
+}
+
+footer {
+  background-color: #e4fbff;
+  color: #194350;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 40px;
+  right: 400px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 350px;
+}
+
+.top-container {
+  background-color: #e4fbff;
+  color: #194350;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+  margin: 0;
+  border: 0;
+}
+
+.comp-icon {
+  width: 4rem;
+}
+
+.me-img {
+  padding: 40px;
+  width: 15%;
+  border-radius: 50%;
+  border: 10px solid #e4fbff;
+}
+
+.about-me {
+  display: inline-flex;
+}
+
+.edu {
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
+
+.edu-row {
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 0 auto 0 auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.schoolSticker {
+  width: 25%;
+  float: right;
+  margin-left: 10px;
+}
+
+.skillSticker {
+  float: left;
+  width: 30%;
+}
+
+.button {
+  background-color: #4caf50;
+  border: none;
+  color: #e4fbff;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.insta-icon {
+  width: 2rem;
+}
+
+.linkedIn-icon {
+  width: 2rem;
+}
+
+.bottom-container {
+  padding: 10px;
+  margin-bottom: none;
+  font-size: medium;
+}
+
+.copyright {
+  font-size: small;
+}
+
+#Git {
+  color: greenyellow;
+  cursor: pointer;
+}
+

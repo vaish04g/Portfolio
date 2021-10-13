@@ -1,0 +1,53 @@
+body {
+    background-color: #194350;
+    color: ghostwhite;
+  }
+  
+  header {
+    background-color: #c0fefc;
+  }
+  
+  h2,h3 {
+      color: whitesmoke;
+  }
+  
+  a {
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      padding: 10px;
+  }
+  
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-top-color: grey;
+    border-top-width: 5px;
+    height: 2px;
+    width: 10%;
+  }
+  
+  form {
+    text-align: center;
+  }
+  
+  .top{
+    position: relative;
+  }
+
+
+  /*.topImg{
+    position: absolute;
+    bottom: 10px;
+    right: 0px;
+  }
+  */
+  .contact {
+    text-align: center;
+  }
+  
+  .insta{
+    width: 20px;
+  }
+  
+  #name {
+    margin-top: 0px;
+  }
